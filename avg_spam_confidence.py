@@ -1,5 +1,5 @@
-#Name: Karishma Mathur
-#School: UMGC
+#This code will isolate the numeric portion of a text file to output the average spam confidence.
+
 fname = input('Enter the file name: ')
 try:
     fhand = open(fname)
