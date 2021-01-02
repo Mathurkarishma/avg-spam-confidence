@@ -1,9 +1,3 @@
-#DATA 620
-#Assignment 11.2
-#Professor Menta
-#Written by Karishma Mathur
-#December 8, 2019
-
 #This program will ask the user for a file and count how many times emails are sent on each particular day of the week
 
 fname = input('Enter the file name: ')
