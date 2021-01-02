@@ -1,5 +1,5 @@
 #Name: Karishma Mathur
-
+#School: UMGC
 fname = input('Enter the file name: ')
 try:
     fhand = open(fname)
