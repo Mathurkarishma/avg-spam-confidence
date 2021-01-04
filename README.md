@@ -72,7 +72,7 @@ Using the `mbox-07.txt` file in the `daily_email_count.py` program in IDLE:
 
 <img src="images/email_count.JPG" alt="email_count">
 
-Using the `mbox-short.txt` file in Command Prompt with the `daily_email_count.py` program:
+Using the `mbox-short.txt` file in the `daily_email_count.py` program in Command Prompt:
 
 `>>python3 daily_email_count.py` <br />
 `>>Enter the file name: mbox-short.txt` <br />
