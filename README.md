@@ -55,24 +55,24 @@ Our goal is to isolate the numeric portion of a text file to output the average 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running, download the `alphabetical_unique_words.py` file and the text input files, `romeo.txt` and `romeo_copy.txt`, into the same folder. Then run the code in an IDE software, such as IDLE, or in Command Prompt.  The `romeo.txt` file contains Romeo's speech, while the `romeo_copy.txt` file was used to prove to my professor that my program works by using my own name.  Easily try your own text file with this program _by saving it into the same folder._
+To get a local copy up and running, download the `avg_spam_confidence.py` and `daily_email_count.py` Python files and the text input files, `mbox.txt`, `mbox-07.txt`, and `mbox-short.txt` into the same folder. Then run the code in an IDE software, such as IDLE, or in Command Prompt.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Using the `romeo.txt` file in IDLE:
+Using the `mbox.txt` file in the `avg_spam_confidence.py` program in IDLE:
 
-<img src="images/romeo.JPG" alt="romeo">
+<img src="images/spam_confidence.JPG" alt="spam_confidence">
 
-Using the `romeo_copy.txt` file in IDLE:
+Using the `mbox-07.txt.txt` file in the `daily_email_count.py` program in IDLE:
 
-<img src="images/romeo_copy.JPG" alt="romeo_copy">
+<img src="images/email_count.JPG" alt="email_count">
 
-Using the `romeo.txt` file in Command Prompt:
+Using the `mbox-short.txt` file in Command Prompt with the `daily_email_count.py` program:
 
-`>>python3 alphabetical_unique_words.py` <br />
-`>>Enter the file name: romeo.txt` <br />
-`>>['Arise', 'But', 'It', 'Juliet', 'Who', 'already', 'and', 'breaks', 'east', 'envious', 'fair', 'grief', 'is', 'kill', 'light', 'moon', 'pale', 'sick', 'soft', 'sun', 'the', 'through', 'what', 'window', 'with', 'yonder']`
+`>>python3 daily_email_count.py` <br />
+`>>Enter the file name: mbox-short.txt` <br />
+`>>`
 
 <!-- CONTACT -->
 ## Contact
