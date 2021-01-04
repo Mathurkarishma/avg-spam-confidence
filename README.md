@@ -1,10 +1,4 @@
-<!--
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** Mathurkarishma, forecast-spam-email, twitter_handle, email, Romeo Unique Words, Displays unique words in text file in alphabetical order.
--->
-
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
