@@ -72,7 +72,7 @@ Using the `mbox-short.txt` file in Command Prompt with the `daily_email_count.py
 
 `>>python3 daily_email_count.py` <br />
 `>>Enter the file name: mbox-short.txt` <br />
-`>>`
+`>>{'Sat': 1, 'Fri': 20, 'Thu': 6}`
 
 <!-- CONTACT -->
 ## Contact
