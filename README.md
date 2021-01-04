@@ -46,6 +46,7 @@
 Hackers are always waiting to see who their next victim is – the office worker who clicks on a link thinking it is a work related email or perhaps a teenager who receives an email stating they can receive a free smartphone in exchange for some personal information.  All of a sudden, this innocent scenario turns into a harmful virus or theft of one’s identity.  There are many ways stolen identification can occur, but one of the most common ways is through spam emails.
 
 Our goal is to forecast which incoming email messages are spam and when we have likelihood to respond to them.
+
 The `avg_spam_confidence.py` file isolates the numeric portion of a text file to output the average spam confidence.  The `daily_email_count.py` file counts emails that are sent out on a particular day of the week.
 
 ### Built With
